@@ -1,0 +1,3 @@
+$ git config --global user.email "carlusperez@outlook.es"
+$ git config --global user.name "biocompt"
+git@github.com:markwilkinson/myTestbed.git
