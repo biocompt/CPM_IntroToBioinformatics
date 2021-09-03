@@ -1,1 +1,7 @@
 just testing things
+
+editing the text
+Showing that the changes were made
+To have a better understand of Git
+
+Please work!!
